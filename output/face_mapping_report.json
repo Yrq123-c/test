@@ -1,0 +1,142 @@
+[
+    {
+        "cq_face_index": 0,
+        "brepnet_face_index": 0,
+        "category": "ExtrudeSide",
+        "category_index": 0,
+        "color": "#FF0000"
+    },
+    {
+        "cq_face_index": 1,
+        "brepnet_face_index": 1,
+        "category": "Fillet",
+        "category_index": 4,
+        "color": "#FF8000"
+    },
+    {
+        "cq_face_index": 2,
+        "brepnet_face_index": 2,
+        "category": "Chamfer",
+        "category_index": 5,
+        "color": "#FF00FF"
+    },
+    {
+        "cq_face_index": 3,
+        "brepnet_face_index": 3,
+        "category": "RevolveSide",
+        "category_index": 6,
+        "color": "#00FFFF"
+    },
+    {
+        "cq_face_index": 4,
+        "brepnet_face_index": 4,
+        "category": "Fillet",
+        "category_index": 4,
+        "color": "#FF8000"
+    },
+    {
+        "cq_face_index": 5,
+        "brepnet_face_index": 5,
+        "category": "Chamfer",
+        "category_index": 5,
+        "color": "#FF00FF"
+    },
+    {
+        "cq_face_index": 6,
+        "brepnet_face_index": 6,
+        "category": "ExtrudeSide",
+        "category_index": 0,
+        "color": "#FF0000"
+    },
+    {
+        "cq_face_index": 7,
+        "brepnet_face_index": 7,
+        "category": "ExtrudeEnd",
+        "category_index": 1,
+        "color": "#00FF00"
+    },
+    {
+        "cq_face_index": 8,
+        "brepnet_face_index": 8,
+        "category": "Chamfer",
+        "category_index": 5,
+        "color": "#FF00FF"
+    },
+    {
+        "cq_face_index": 9,
+        "brepnet_face_index": 9,
+        "category": "RevolveSide",
+        "category_index": 6,
+        "color": "#00FFFF"
+    },
+    {
+        "cq_face_index": 10,
+        "brepnet_face_index": 10,
+        "category": "Fillet",
+        "category_index": 4,
+        "color": "#FF8000"
+    },
+    {
+        "cq_face_index": 11,
+        "brepnet_face_index": 11,
+        "category": "Fillet",
+        "category_index": 4,
+        "color": "#FF8000"
+    },
+    {
+        "cq_face_index": 12,
+        "brepnet_face_index": 12,
+        "category": "RevolveSide",
+        "category_index": 6,
+        "color": "#00FFFF"
+    },
+    {
+        "cq_face_index": 13,
+        "brepnet_face_index": 13,
+        "category": "RevolveSide",
+        "category_index": 6,
+        "color": "#00FFFF"
+    },
+    {
+        "cq_face_index": 14,
+        "brepnet_face_index": 14,
+        "category": "Chamfer",
+        "category_index": 5,
+        "color": "#FF00FF"
+    },
+    {
+        "cq_face_index": 15,
+        "brepnet_face_index": 15,
+        "category": "RevolveSide",
+        "category_index": 6,
+        "color": "#00FFFF"
+    },
+    {
+        "cq_face_index": 16,
+        "brepnet_face_index": 16,
+        "category": "Chamfer",
+        "category_index": 5,
+        "color": "#FF00FF"
+    },
+    {
+        "cq_face_index": 17,
+        "brepnet_face_index": 17,
+        "category": "Chamfer",
+        "category_index": 5,
+        "color": "#FF00FF"
+    },
+    {
+        "cq_face_index": 18,
+        "brepnet_face_index": 18,
+        "category": "Chamfer",
+        "category_index": 5,
+        "color": "#FF00FF"
+    },
+    {
+        "cq_face_index": 19,
+        "brepnet_face_index": 19,
+        "category": "Chamfer",
+        "category_index": 5,
+        "color": "#FF00FF"
+    }
+]

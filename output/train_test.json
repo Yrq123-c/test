@@ -1,0 +1,12 @@
+{
+    "train": [
+        "extrude_cut_revolve.npz",
+        "revolve_cut_extrude.npz"
+    ],
+    "test": [
+        "extrude_cut_revolve.npz"
+    ],
+    "validation": [
+        "revolve_cut_extrude.npz"
+    ]
+}
